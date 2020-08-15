@@ -1,6 +1,6 @@
 This folder contains the functions created. Functions can be used to compute carbon and nitrogen fluxes and stability of soil food webs of various sizes. 
 
-Data must agree to the following: 
+Input Data must agree to the following: 
 Species must be given in a vertical character list with species names in order of computation. With top predator at first position.
 Important to note is that a functional group must be computed after all its predators have been computed, 
 In this way the death by predation value is complete. A functional group must always come after all it's predators. 
